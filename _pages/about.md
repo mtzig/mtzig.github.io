@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior at Carleton College majoring in computer science and mathematics.
+I am a senior at Carleton College majoring in computer science and mathematics. I am currently applying for a CS PhD programs.
 
