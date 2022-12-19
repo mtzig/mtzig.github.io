@@ -8,5 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior at Carleton College majoring in computer science and mathematics. I am currently applying for a CS PhD programs.
+I am a senior at Carleton College majoring in computer science and mathematics with an interest in deep learning -- specifically in creating robust, fair and explainable models.
 
+I am currently applying for CS PhD positions.
